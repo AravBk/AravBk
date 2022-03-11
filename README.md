@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Currently pursuing Master's in Computer Science at University at Buffalo, The State University of New York
 - Pursuing my second semester and actively looking for Internship Oppurtnities.
 - Worked as a Software Developer Intern at Qube Cinemas for 6 months.
+- Love Clicking on-the-go photographs as a hobby.
 - Fun fact: I love to read news, develop websites.
 <!-- <a href="https://twitter.com/AravBk">Twitter</a> -->
 
