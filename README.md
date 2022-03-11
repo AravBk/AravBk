@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### Master's Student • University at Buffalo • Computer Science
 - Currently pursuing Master's in Computer Science at University at Buffalo, The State University of New York
 - Pursuing my second semester and actively looking for Internship Oppurtnities.
+- Smart India Hackathon 2018 Finalist
 - Worked as a Software Developer Intern at Qube Cinemas for 6 months.
 - Love Clicking on-the-go photographs as a hobby.
 - Fun fact: I love to read news, develop websites.
@@ -44,9 +45,9 @@ Here are some ideas to get you started:
 ### Good coding knowledge in Python and have done several projects.
 
 ### Frameworks
-#### Django: 
-- Buiding a microblogging platform(Rapt) with analytics and natural language processing
-- Get the code in CallodineBlog repo
+#### Flask: 
+- Built a search engine during my first semester of my Masters Degree. Built using AngularJS and Flask.
+- Code base is in the Information Retrieval Repo
 
 ### <ins> Programming Languages: </ins>
 #### C, Python, C++
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 <img align="left" height="30" width="30" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="30" width="30" alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
 <img align="left" height="30" width="30" alt="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-<img align="left" height="30" width="30" alt="Flask" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
+<img align="left" height="30" width="30" alt="Flask" src="https://iconscout.com/icon/flask-51" />
 <br />
 <br />
 
@@ -70,7 +71,7 @@ Here are some ideas to get you started:
 #### MySQL, Firebase, Oracle SQL, SQLlite, PostgreSQL
 <img align="left" height="30" width="30" alt="MySQL"  src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 <img align="left" height="30" width="30" alt="SQLlite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" />
-<img align="left" height="30" width="30" alt="PostgreSQL" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" />
+<img align="left" height="30" width="30" alt="PostgreSQL" src="https://iconscout.com/icon/postgresql" />
 <br />
 <br />
 
@@ -81,7 +82,6 @@ Here are some ideas to get you started:
 <img align="left" height="30" width="30" alt="Machine Learning" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
 <img align="left" height="30" width="30" alt="Linux" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
 <img align="left" height="30" width="30" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="30" width="30" alt="Google CLoud"  src="https://cdn-icons-png.flaticon.com/512/873/873117.png" />
 <img align="left" height="30" width="30" alt="AWS"  src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" />
 <br />
 <br />
