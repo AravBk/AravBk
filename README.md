@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Work Experience
  
 - Worked as a Software Developer Intern at Qube Cinemas for 6 months.
-- Worked as a team lead as a Software Developer Intern at IpserLabs during Summer 2022.
+- Worked as a Software Developer Intern at IpserLabs during Summer 2022. Was made the team lead for my project.
   
 ### Interests & Achievements
   
