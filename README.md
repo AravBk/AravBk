@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hello, I'm <a href="https://aravindbalakrishnan.com/">Aravind Balakrishnan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hello, I'm <a href="https://aravindbalakrishnan.com/">Aravind Balakrishnan</a>
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AravBk&label=Views&color=blue&style=flat" alt="AravBk" /> </p>
 
