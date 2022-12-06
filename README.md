@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
 ### Interests & Achievements
   
-- SIH Finalist 2018
+- SIH Finalist 2019
 - Love Clicking on-the-go photographs as a hobby.
 - Fun fact: I love to read news, develop websites.
   
